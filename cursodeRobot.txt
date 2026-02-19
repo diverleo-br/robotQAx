@@ -1,0 +1,14 @@
+ligar os apps para o curso de robot 
+
+ligando o banco 
+cd c/QAx/apps/smartbit/
+docker-compose up -d
+
+entrar o bash 
+cd c/QAx/apps/smartbit/api
+npm run dev
+
+entrar no bash e ligar o web
+cd c/QAx/apps/smartbit/web
+npm run dev
+
