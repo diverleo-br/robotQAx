@@ -28,7 +28,7 @@ Deve iniciar o cadastro do cliente
 
     Fill Text            id =name        ${account}[name]
     Fill Text            id =email       ${account}[email]
-    Fill Text            id =document    ${account}[document]
+    Fill Text            id =cpf         ${account}[cpf]
     
     #clica no sumimit (cadastrar)
     Click                css=button >> text=Cadastrar
@@ -61,7 +61,7 @@ Campo nome deve ser obrigatório
     #realiza os imputs nos campos
 
     Fill Text            id =email       leonardo*hot.com
-    Fill Text            id =document    86918027077
+    Fill Text            id =cpf         86918027077
     #clica no sumimit (cadastrar)
     Click                css=button >> text=Cadastrar
     #Click        xpath=//button[text()="Cadastrar"]
@@ -93,7 +93,7 @@ Campo email deve ser obrigatório
     #realiza os imputs nos campos
 
     Fill Text            id =name        Leonardo
-    Fill Text            id =document    86918027077
+    Fill Text            id =cpf         86918027077
     #clica no sumimit (cadastrar)
     Click                css=button >> text=Cadastrar
     #Click        xpath=//button[text()="Cadastrar"]
@@ -158,7 +158,7 @@ Email no formato invalido
 
     Fill Text            id =name        Leonardo
     Fill Text            id =email       leonardo*hot.com
-    Fill Text            id =document    86918027077
+    Fill Text            id =cpf    86918027077
     #clica no sumimit (cadastrar)
     Click                css=button >> text=Cadastrar
     #Click        xpath=//button[text()="Cadastrar"]
@@ -191,7 +191,7 @@ CPF no formato invalido
 
     Fill Text            id =name        Leonardo
     Fill Text            id =email       leonardo@hot.com
-    Fill Text            id =document    86918027000
+    Fill Text            id =cpf    86918027000
     #clica no sumimit (cadastrar)
     Click                css=button >> text=Cadastrar
     #Click        xpath=//button[text()="Cadastrar"]
