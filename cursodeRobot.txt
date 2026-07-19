@@ -1,14 +1,47 @@
 ligar os apps para o curso de robot 
 
 ligando o banco 
-cd c/QAx/apps/smartbit/
+cd /c/QAx/apps/smartbit/
 docker-compose up -d
 
+desligando e destruindo os containers
+docker compose down
+
 entrar o bash 
-cd c/QAx/apps/smartbit/api
+cd /c/QAx/apps/smartbit/api
 npm run dev
 
 entrar no bash e ligar o web
-cd c/QAx/apps/smartbit/web
+cd /c/QAx/apps/smartbit/web
 npm run dev
 
+para rodar e jogar os arquivos na pasta logs 
+robot -d ./logs signup.robot
+robot -d ./logs tests/slogan.robot
+
+Vichy Dercos Energy+
+Keune 1922 Fortifying
+Nioxin System
+Ducray Anaphase+
+
+https://vagas.blite.com.br/jobs/banco-de-talentos-analista-de-teste-junior-qa?new_candidate=true
+
+
+Bom dia, Valeska, tudo bem?
+
+Meu nome é Leonardo e trabalhei na Accenture entre 2010 e 2011. Na época, fiz o curso preparatório de QA para PCDs, mas acabei saindo pouco tempo depois por uma proposta do Itaú que fazia mais sentido naquele momento.
+
+Hoje, meu objetivo é retornar para a área de QA, que é onde realmente me realizo profissionalmente. Estou estudando muito automação com Robot e Cypress e busco uma oportunidade como QA Júnior.
+
+Guardo a Accenture com muito carinho, pois foi o melhor lugar onde trabalhei em termos de acessibilidade; a equipe realmente se mobilizou para que eu pudesse desempenhar meu papel com autonomia, inclusive com adaptações físicas estruturais. Por isso, gostaria de saber se haveria alguma oportunidade atual ou se você poderia me orientar internamente para uma vaga de Júnior.
+
+Sei que sua rotina deve ser corrida, mas agradeço muito qualquer ajuda ou indicação que puder oferecer. Desculpe o incômodo e obrigado pela atenção!
+
+"Sou um profissional de TI com 28 anos de experiência, consolidado na sustentação de ambientes críticos e infraestrutura complexa, agora direcionando minha carreira para a área de Quality Assurance (QA)." Por que sou o candidato ideal para a transição?Bagagem Técnica Robusta: Diferente de muitos QAs iniciantes, eu domino o que acontece "por baixo do capô". Tenho experiência com servidores Linux/Windows, bancos de dados, APIs/Webservices e monitoramento em tempo real com Splunk.  Isso me permite realizar testes de integração e performance com uma visão sistêmica muito mais profunda. Transição em Andamento: Já atuo com testes manuais, escrita de casos de teste e reporte de bugs via Jira. Atualmente, foco minha evolução na automação com Cypress e Robot, realizando estudo em Postman para testes de API. Histórico com automação: Minha experiência com automação não é recente; já utilizei IBM Rational Functional Tester com linguagem Java para auditorias e testes de sistemas no passado. Mentalidade de Qualidade (SRE/Sustentação): Como Analista de SRE e Suporte especializado, meu dia a dia sempre foi garantir a disponibilidade e a segurança (remoção de vulnerabilidades e aplicação de patches).  Levo essa cultura de "zero falha" para o processo de desenvolvimento de software. O que busco: Contribuir com times ágeis na garantia da qualidade de software, unindo meu conhecimento de infraestrutura e virtualização (AWS/Azure/VMware) com as melhores práticas de QA para escalar a eficiência e a confiabilidade das entregas
+
+
+Com uma trajetória de 28 anos no setor de Tecnologia da Informação, acompanhei de perto a evolução das infraestruturas críticas até a automação moderna. 
+Atualmente, foco minha carreira na área de Quality Assurance (QA), unindo minha sólida base em SRE e Infraestrutura (AWS, Azure, VMWare) com práticas avançadas
+de testes automatizados em Robot Framework e Cypress.
+Meu objetivo na Bosch é aplicar essa visão 360º — que integra a estabilidade do ambiente à qualidade do software — para garantir entregas de alta confiabilidade.
+Como profissional PCD, busco contribuir em um ambiente que valoriza a diversidade e a excelência técnica, utilizando automação de massa de dados para otimizar os ciclos de desenvolvimento da companhia.
