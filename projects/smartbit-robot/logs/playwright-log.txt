@@ -1,280 +1,326 @@
-{"level":30,"time":"2026-07-19T14:46:38.630Z","pid":38980,"hostname":"AcerLeo","msg":"Listening on 127.0.0.1:52256"}
-{"level":30,"time":"2026-07-19T14:46:38.889Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2026-07-19T14:46:39.371Z","pid":38980,"hostname":"AcerLeo","msg":"Adding browser to stack: chromium, version: 145.0.7632.6"}
-{"level":30,"time":"2026-07-19T14:46:39.371Z","pid":38980,"hostname":"AcerLeo","msg":"Adding 0 contexts to browser"}
-{"level":30,"time":"2026-07-19T14:46:39.371Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newBrowser"}
-{"level":30,"time":"2026-07-19T14:46:39.376Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:39.376Z","pid":38980,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@2ca3fd2de77363db223e617b72f65300\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=91450248-3845-4432-bf64-5a59d4947630\"}"}
-{"level":30,"time":"2026-07-19T14:46:39.385Z","pid":38980,"hostname":"AcerLeo","msg":"Setting default timeout for context context=6d89790f-3f73-4cc6-bf85-90452ef19b71 to 10000"}
-{"level":30,"time":"2026-07-19T14:46:39.385Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=6d89790f-3f73-4cc6-bf85-90452ef19b71"}
-{"level":30,"time":"2026-07-19T14:46:39.485Z","pid":38980,"hostname":"AcerLeo","msg":"Video path: undefined"}
-{"level":30,"time":"2026-07-19T14:46:39.485Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:46:39.865Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:39.868Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:39.868Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
-{"level":30,"time":"2026-07-19T14:46:39.905Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
-{"level":30,"time":"2026-07-19T14:46:39.905Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:39.908Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:39.908Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
-{"level":30,"time":"2026-07-19T14:46:39.915Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:39.917Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:39.918Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
-{"level":30,"time":"2026-07-19T14:46:39.924Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:39.926Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:39.926Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =document in page."}
-{"level":30,"time":"2026-07-19T14:46:39.932Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:39.935Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method click"}
-{"level":30,"time":"2026-07-19T14:46:39.935Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2026-07-19T14:46:40.247Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method click"}
-{"level":30,"time":"2026-07-19T14:46:40.250Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:46:40.250Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with text=Falta pouco para fazer parte da família Smartbit! in page."}
-{"level":30,"time":"2026-07-19T14:46:42.626Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:46:47.636Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.640Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.642Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.644Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.645Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.647Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.650Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.651Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.652Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=6d89790f-3f73-4cc6-bf85-90452ef19b71"}
-{"level":30,"time":"2026-07-19T14:46:47.652Z","pid":38980,"hostname":"AcerLeo","msg":"Changing current active page: page=f3d8f7ed-b0c7-457c-8f08-f869379dfcac"}
-{"level":30,"time":"2026-07-19T14:46:47.652Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:46:47.654Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:46:47.666Z","pid":38980,"hostname":"AcerLeo","msg":"Removed page=adb7f5f1-e548-42e5-a09f-387c5637c30f from context=6d89790f-3f73-4cc6-bf85-90452ef19b71 page stack"}
-{"level":30,"time":"2026-07-19T14:46:47.670Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:46:47.674Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.675Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:47.679Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:46:47.680Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:46:47.682Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:47.682Z","pid":38980,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@2ca3fd2de77363db223e617b72f65300\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=91450248-3845-4432-bf64-5a59d4947630\"}"}
-{"level":30,"time":"2026-07-19T14:46:47.697Z","pid":38980,"hostname":"AcerLeo","msg":"Setting default timeout for context context=f7a3fb2f-30f0-4397-87b8-f41c4d5336ad to 10000"}
-{"level":30,"time":"2026-07-19T14:46:47.697Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=f7a3fb2f-30f0-4397-87b8-f41c4d5336ad"}
-{"level":30,"time":"2026-07-19T14:46:47.803Z","pid":38980,"hostname":"AcerLeo","msg":"Video path: undefined"}
-{"level":30,"time":"2026-07-19T14:46:47.804Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:46:48.165Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:48.169Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:48.169Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
-{"level":30,"time":"2026-07-19T14:46:48.206Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
-{"level":30,"time":"2026-07-19T14:46:48.206Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:48.209Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:48.209Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
-{"level":30,"time":"2026-07-19T14:46:48.215Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:48.218Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:48.218Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =document in page."}
-{"level":30,"time":"2026-07-19T14:46:48.225Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:48.227Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method click"}
-{"level":30,"time":"2026-07-19T14:46:48.227Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2026-07-19T14:46:48.254Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method click"}
-{"level":30,"time":"2026-07-19T14:46:48.257Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:46:48.257Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:46:48.565Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:46:48.567Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:48.567Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:46:48.573Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Por favor informe o seu nome completo"}
-{"level":30,"time":"2026-07-19T14:46:48.573Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:53.579Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.581Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.582Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.584Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.585Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.586Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.587Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.588Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.590Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=f7a3fb2f-30f0-4397-87b8-f41c4d5336ad"}
-{"level":30,"time":"2026-07-19T14:46:53.590Z","pid":38980,"hostname":"AcerLeo","msg":"Changing current active page: page=a93ee5b7-e49a-4a4e-b2b0-6e2c3e686635"}
-{"level":30,"time":"2026-07-19T14:46:53.590Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:46:53.592Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:46:53.600Z","pid":38980,"hostname":"AcerLeo","msg":"Removed page=02e79ead-82aa-4755-afba-32cc376af4a3 from context=f7a3fb2f-30f0-4397-87b8-f41c4d5336ad page stack"}
-{"level":30,"time":"2026-07-19T14:46:53.602Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:46:53.605Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.605Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:53.607Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:46:53.607Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:46:53.610Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:53.611Z","pid":38980,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@2ca3fd2de77363db223e617b72f65300\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=91450248-3845-4432-bf64-5a59d4947630\"}"}
-{"level":30,"time":"2026-07-19T14:46:53.629Z","pid":38980,"hostname":"AcerLeo","msg":"Setting default timeout for context context=654840f1-203d-4809-9b7d-4fe470780dec to 10000"}
-{"level":30,"time":"2026-07-19T14:46:53.629Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=654840f1-203d-4809-9b7d-4fe470780dec"}
-{"level":30,"time":"2026-07-19T14:46:53.723Z","pid":38980,"hostname":"AcerLeo","msg":"Video path: undefined"}
-{"level":30,"time":"2026-07-19T14:46:53.723Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:46:54.083Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:54.086Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:54.086Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
-{"level":30,"time":"2026-07-19T14:46:54.130Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
-{"level":30,"time":"2026-07-19T14:46:54.130Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:54.133Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:54.133Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
-{"level":30,"time":"2026-07-19T14:46:54.144Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:54.148Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:54.148Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =document in page."}
-{"level":30,"time":"2026-07-19T14:46:54.165Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:46:54.169Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method click"}
-{"level":30,"time":"2026-07-19T14:46:54.169Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2026-07-19T14:46:54.191Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method click"}
-{"level":30,"time":"2026-07-19T14:46:54.195Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:46:54.195Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:46:54.514Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:46:54.517Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:54.517Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:46:54.523Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Por favor, informe o seu melhor e-mail"}
-{"level":30,"time":"2026-07-19T14:46:54.524Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:46:59.534Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.537Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.539Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.541Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.543Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.544Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.546Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.547Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.548Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=654840f1-203d-4809-9b7d-4fe470780dec"}
-{"level":30,"time":"2026-07-19T14:46:59.548Z","pid":38980,"hostname":"AcerLeo","msg":"Changing current active page: page=327573d4-041d-4e8d-b24b-57653358fa4f"}
-{"level":30,"time":"2026-07-19T14:46:59.548Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:46:59.550Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:46:59.558Z","pid":38980,"hostname":"AcerLeo","msg":"Removed page=1b15ff89-62ce-45b4-be71-9b6dd1c8ffd6 from context=654840f1-203d-4809-9b7d-4fe470780dec page stack"}
-{"level":30,"time":"2026-07-19T14:46:59.560Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:46:59.565Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.565Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:46:59.567Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:46:59.567Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:46:59.570Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newPage"}
-{"level":30,"time":"2026-07-19T14:46:59.570Z","pid":38980,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@2ca3fd2de77363db223e617b72f65300\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=91450248-3845-4432-bf64-5a59d4947630\"}"}
-{"level":30,"time":"2026-07-19T14:46:59.584Z","pid":38980,"hostname":"AcerLeo","msg":"Setting default timeout for context context=d88012e7-bb6f-431a-a462-079cf7ff076f to 10000"}
-{"level":30,"time":"2026-07-19T14:46:59.584Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=d88012e7-bb6f-431a-a462-079cf7ff076f"}
-{"level":30,"time":"2026-07-19T14:46:59.660Z","pid":38980,"hostname":"AcerLeo","msg":"Video path: undefined"}
-{"level":30,"time":"2026-07-19T14:46:59.660Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:47:00.039Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newPage"}
-{"level":30,"time":"2026-07-19T14:47:00.042Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:00.042Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
-{"level":30,"time":"2026-07-19T14:47:00.086Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
-{"level":30,"time":"2026-07-19T14:47:00.086Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:00.089Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:00.089Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
-{"level":30,"time":"2026-07-19T14:47:00.096Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:00.098Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:00.098Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
-{"level":30,"time":"2026-07-19T14:47:00.105Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:00.109Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method click"}
-{"level":30,"time":"2026-07-19T14:47:00.109Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2026-07-19T14:47:00.144Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method click"}
-{"level":30,"time":"2026-07-19T14:47:00.146Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:47:00.146Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:47:00.466Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:47:00.469Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:00.469Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:47:00.476Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Por favor, informe o seu CPF"}
-{"level":30,"time":"2026-07-19T14:47:00.476Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:05.486Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.488Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.490Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.492Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.494Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.496Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.498Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.499Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.500Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=d88012e7-bb6f-431a-a462-079cf7ff076f"}
-{"level":30,"time":"2026-07-19T14:47:05.500Z","pid":38980,"hostname":"AcerLeo","msg":"Changing current active page: page=8eed9d26-e7a9-4385-8c40-64c7dd2635a4"}
-{"level":30,"time":"2026-07-19T14:47:05.500Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:47:05.502Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:47:05.515Z","pid":38980,"hostname":"AcerLeo","msg":"Removed page=abd7749b-1678-4e5f-b03d-21b4930164cf from context=d88012e7-bb6f-431a-a462-079cf7ff076f page stack"}
-{"level":30,"time":"2026-07-19T14:47:05.517Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:47:05.520Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.520Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:05.522Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:47:05.522Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:47:05.524Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newPage"}
-{"level":30,"time":"2026-07-19T14:47:05.524Z","pid":38980,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@2ca3fd2de77363db223e617b72f65300\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=91450248-3845-4432-bf64-5a59d4947630\"}"}
-{"level":30,"time":"2026-07-19T14:47:05.538Z","pid":38980,"hostname":"AcerLeo","msg":"Setting default timeout for context context=3dd7adfc-4507-414e-a663-6cf3eaddb805 to 10000"}
-{"level":30,"time":"2026-07-19T14:47:05.538Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=3dd7adfc-4507-414e-a663-6cf3eaddb805"}
-{"level":30,"time":"2026-07-19T14:47:05.610Z","pid":38980,"hostname":"AcerLeo","msg":"Video path: undefined"}
-{"level":30,"time":"2026-07-19T14:47:05.610Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:47:05.987Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newPage"}
-{"level":30,"time":"2026-07-19T14:47:05.991Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:05.991Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
-{"level":30,"time":"2026-07-19T14:47:06.028Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
-{"level":30,"time":"2026-07-19T14:47:06.028Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:06.030Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:06.030Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
-{"level":30,"time":"2026-07-19T14:47:06.036Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:06.040Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:06.040Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
-{"level":30,"time":"2026-07-19T14:47:06.049Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:06.052Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:06.052Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =document in page."}
-{"level":30,"time":"2026-07-19T14:47:06.060Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:06.062Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method click"}
-{"level":30,"time":"2026-07-19T14:47:06.062Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2026-07-19T14:47:06.089Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method click"}
-{"level":30,"time":"2026-07-19T14:47:06.093Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:47:06.093Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:47:06.401Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:47:06.403Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:06.403Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:47:06.410Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Oops! O email informado é inválido"}
-{"level":30,"time":"2026-07-19T14:47:06.410Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:11.417Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.420Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.422Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.424Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.425Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.427Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.428Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.429Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.430Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=3dd7adfc-4507-414e-a663-6cf3eaddb805"}
-{"level":30,"time":"2026-07-19T14:47:11.430Z","pid":38980,"hostname":"AcerLeo","msg":"Changing current active page: page=ee6f1ea1-f10b-4488-883b-0434084460e9"}
-{"level":30,"time":"2026-07-19T14:47:11.430Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:47:11.432Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:47:11.444Z","pid":38980,"hostname":"AcerLeo","msg":"Removed page=d597dc49-8ad8-4561-85a3-939a9a8e60dd from context=3dd7adfc-4507-414e-a663-6cf3eaddb805 page stack"}
-{"level":30,"time":"2026-07-19T14:47:11.445Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:47:11.449Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.449Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:11.452Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:47:11.452Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
-{"level":30,"time":"2026-07-19T14:47:11.455Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method newPage"}
-{"level":30,"time":"2026-07-19T14:47:11.455Z","pid":38980,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@2ca3fd2de77363db223e617b72f65300\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=91450248-3845-4432-bf64-5a59d4947630\"}"}
-{"level":30,"time":"2026-07-19T14:47:11.464Z","pid":38980,"hostname":"AcerLeo","msg":"Setting default timeout for context context=626d21fd-d3ef-404e-bae8-a0e8eeec4dcd to 10000"}
-{"level":30,"time":"2026-07-19T14:47:11.464Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=626d21fd-d3ef-404e-bae8-a0e8eeec4dcd"}
-{"level":30,"time":"2026-07-19T14:47:11.543Z","pid":38980,"hostname":"AcerLeo","msg":"Video path: undefined"}
-{"level":30,"time":"2026-07-19T14:47:11.543Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:47:11.924Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method newPage"}
-{"level":30,"time":"2026-07-19T14:47:11.927Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:11.927Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
-{"level":30,"time":"2026-07-19T14:47:11.965Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
-{"level":30,"time":"2026-07-19T14:47:11.965Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:11.967Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:11.967Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
-{"level":30,"time":"2026-07-19T14:47:11.973Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:11.976Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:11.976Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
-{"level":30,"time":"2026-07-19T14:47:11.985Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:11.989Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:11.989Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =document in page."}
-{"level":30,"time":"2026-07-19T14:47:11.997Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method fillText"}
-{"level":30,"time":"2026-07-19T14:47:11.999Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method click"}
-{"level":30,"time":"2026-07-19T14:47:11.999Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
-{"level":30,"time":"2026-07-19T14:47:12.021Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method click"}
-{"level":30,"time":"2026-07-19T14:47:12.025Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:47:12.025Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:47:12.338Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2026-07-19T14:47:12.340Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:12.340Z","pid":38980,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
-{"level":30,"time":"2026-07-19T14:47:12.347Z","pid":38980,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Oops! O CPF informado é inválido"}
-{"level":30,"time":"2026-07-19T14:47:12.347Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getText"}
-{"level":30,"time":"2026-07-19T14:47:17.353Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.355Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.356Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.357Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.358Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.360Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.361Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.362Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.363Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active context: context=626d21fd-d3ef-404e-bae8-a0e8eeec4dcd"}
-{"level":30,"time":"2026-07-19T14:47:17.363Z","pid":38980,"hostname":"AcerLeo","msg":"Changing current active page: page=89a20623-b465-4f59-a6fe-7f4a682b63bc"}
-{"level":30,"time":"2026-07-19T14:47:17.363Z","pid":38980,"hostname":"AcerLeo","msg":"Changed active page"}
-{"level":30,"time":"2026-07-19T14:47:17.366Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:47:17.384Z","pid":38980,"hostname":"AcerLeo","msg":"Removed page=112361dd-b5a1-48a9-9255-daf8ff27bae6 from context=626d21fd-d3ef-404e-bae8-a0e8eeec4dcd page stack"}
-{"level":30,"time":"2026-07-19T14:47:17.393Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeContext"}
-{"level":30,"time":"2026-07-19T14:47:17.407Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:17.407Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2026-07-19T14:47:19.814Z","pid":38980,"hostname":"AcerLeo","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2026-07-19T14:47:20.522Z","pid":38980,"hostname":"AcerLeo","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2026-07-20T02:21:17.731Z","pid":34248,"hostname":"AcerLeo","msg":"Listening on 127.0.0.1:60176"}
+{"level":30,"time":"2026-07-20T02:21:18.144Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-07-20T02:21:18.308Z","pid":34248,"hostname":"AcerLeo","msg":"Adding browser to stack: chromium, version: 145.0.7632.6"}
+{"level":30,"time":"2026-07-20T02:21:18.308Z","pid":34248,"hostname":"AcerLeo","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-07-20T02:21:18.308Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-07-20T02:21:18.312Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:18.312Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:18.322Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=3504ed34-fe4c-4c05-bdd8-994f19169f2b to 10000"}
+{"level":30,"time":"2026-07-20T02:21:18.322Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=3504ed34-fe4c-4c05-bdd8-994f19169f2b"}
+{"level":30,"time":"2026-07-20T02:21:18.410Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:18.410Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:18.782Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:18.785Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:18.785Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:18.824Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:18.824Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:18.827Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:18.827Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
+{"level":30,"time":"2026-07-20T02:21:18.835Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:18.837Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:18.837Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
+{"level":30,"time":"2026-07-20T02:21:18.848Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:18.851Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:18.851Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =cpf in page."}
+{"level":30,"time":"2026-07-20T02:21:18.858Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:18.860Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method click"}
+{"level":30,"time":"2026-07-20T02:21:18.861Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2026-07-20T02:21:18.895Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method click"}
+{"level":30,"time":"2026-07-20T02:21:18.898Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:18.898Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with text=Faça seu cadastro e venha para a Smartbit! in page."}
+{"level":30,"time":"2026-07-20T02:21:18.901Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:23.908Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.911Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.913Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.914Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.916Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.917Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.920Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.921Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.922Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=3504ed34-fe4c-4c05-bdd8-994f19169f2b"}
+{"level":30,"time":"2026-07-20T02:21:23.922Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=ec3a84bc-a80b-4170-9139-94d9576a9453"}
+{"level":30,"time":"2026-07-20T02:21:23.922Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:23.927Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:23.939Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=7d2325e4-6d50-4d53-b050-23546fe56ee4 from context=3504ed34-fe4c-4c05-bdd8-994f19169f2b page stack"}
+{"level":30,"time":"2026-07-20T02:21:23.942Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:23.945Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.946Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:23.951Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:23.951Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:23.955Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:23.955Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:23.966Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=1055b863-96ae-4a0e-b95d-1bb99453c961 to 10000"}
+{"level":30,"time":"2026-07-20T02:21:23.966Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=1055b863-96ae-4a0e-b95d-1bb99453c961"}
+{"level":30,"time":"2026-07-20T02:21:24.053Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:24.053Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:24.498Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:24.501Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:24.501Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:24.551Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:24.551Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:24.553Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:24.553Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
+{"level":30,"time":"2026-07-20T02:21:24.562Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:24.566Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:24.566Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
+{"level":30,"time":"2026-07-20T02:21:24.573Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:24.577Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:24.577Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =cpf in page."}
+{"level":30,"time":"2026-07-20T02:21:24.583Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:24.588Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method click"}
+{"level":30,"time":"2026-07-20T02:21:24.588Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2026-07-20T02:21:24.629Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method click"}
+{"level":30,"time":"2026-07-20T02:21:24.633Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:24.633Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:24.958Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:24.962Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:24.962Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:24.971Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Por favor informe o seu nome completo"}
+{"level":30,"time":"2026-07-20T02:21:24.971Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:29.979Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:29.983Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:29.985Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:29.989Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:29.991Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:29.995Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:29.998Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:30.002Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:30.004Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=1055b863-96ae-4a0e-b95d-1bb99453c961"}
+{"level":30,"time":"2026-07-20T02:21:30.004Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=f1374ee2-2178-4b18-ac0b-2d3efd1e7d91"}
+{"level":30,"time":"2026-07-20T02:21:30.004Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:30.009Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:30.036Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=60991f81-9e04-4dd1-80a3-cd5887eb2f44 from context=1055b863-96ae-4a0e-b95d-1bb99453c961 page stack"}
+{"level":30,"time":"2026-07-20T02:21:30.040Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:30.046Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:30.046Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:30.054Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:30.054Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:30.062Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:30.062Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:30.087Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=45201e5b-42c9-4f3f-9fb2-e10910f33cef to 10000"}
+{"level":30,"time":"2026-07-20T02:21:30.087Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=45201e5b-42c9-4f3f-9fb2-e10910f33cef"}
+{"level":30,"time":"2026-07-20T02:21:30.201Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:30.201Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:30.665Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:30.667Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:30.667Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:30.734Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:30.734Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:30.737Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:30.737Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
+{"level":30,"time":"2026-07-20T02:21:30.745Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:30.747Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:30.747Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
+{"level":30,"time":"2026-07-20T02:21:30.765Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:30.768Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:30.768Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =cpf in page."}
+{"level":30,"time":"2026-07-20T02:21:30.777Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:30.779Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method click"}
+{"level":30,"time":"2026-07-20T02:21:30.779Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2026-07-20T02:21:30.815Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method click"}
+{"level":30,"time":"2026-07-20T02:21:30.820Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:30.820Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:31.131Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:31.137Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:31.137Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:31.153Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Por favor, informe o seu melhor e-mail"}
+{"level":30,"time":"2026-07-20T02:21:31.153Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:36.161Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.163Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.164Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.166Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.167Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.168Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.169Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.170Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.171Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=45201e5b-42c9-4f3f-9fb2-e10910f33cef"}
+{"level":30,"time":"2026-07-20T02:21:36.172Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=bc53f88a-5318-4cbd-8abb-e83ec09ce4df"}
+{"level":30,"time":"2026-07-20T02:21:36.172Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:36.174Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:36.188Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=835453ed-8885-4ba5-aa42-cfbb33fa1f45 from context=45201e5b-42c9-4f3f-9fb2-e10910f33cef page stack"}
+{"level":30,"time":"2026-07-20T02:21:36.192Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:36.195Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.195Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:36.198Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:36.198Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:36.199Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:36.199Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:36.207Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=f079af94-4cd4-400d-8a2d-c2e4950c49b2 to 10000"}
+{"level":30,"time":"2026-07-20T02:21:36.207Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=f079af94-4cd4-400d-8a2d-c2e4950c49b2"}
+{"level":30,"time":"2026-07-20T02:21:36.308Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:36.308Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:36.712Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:36.717Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:36.717Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:36.758Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:36.758Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:36.763Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:36.763Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
+{"level":30,"time":"2026-07-20T02:21:36.776Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:36.778Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:36.778Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
+{"level":30,"time":"2026-07-20T02:21:36.787Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:36.790Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:36.790Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =cpf in page."}
+{"level":30,"time":"2026-07-20T02:21:36.796Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:36.798Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method click"}
+{"level":30,"time":"2026-07-20T02:21:36.799Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2026-07-20T02:21:36.825Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method click"}
+{"level":30,"time":"2026-07-20T02:21:36.830Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:36.830Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:37.146Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:37.148Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:37.148Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:37.154Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Por favor, informe o seu CPF"}
+{"level":30,"time":"2026-07-20T02:21:37.154Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:42.162Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.165Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.167Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.169Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.171Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.173Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.174Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.176Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.177Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=f079af94-4cd4-400d-8a2d-c2e4950c49b2"}
+{"level":30,"time":"2026-07-20T02:21:42.177Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=0441e1b5-7f1e-489b-96c3-fce9aabb09db"}
+{"level":30,"time":"2026-07-20T02:21:42.177Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:42.179Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:42.192Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=4ffe1474-2aaa-4085-9e91-61adedfd35fd from context=f079af94-4cd4-400d-8a2d-c2e4950c49b2 page stack"}
+{"level":30,"time":"2026-07-20T02:21:42.195Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:42.198Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.199Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:42.203Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:42.203Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:42.205Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:42.205Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:42.214Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=c60b8c04-800d-4adb-aa90-38590a9debd8 to 10000"}
+{"level":30,"time":"2026-07-20T02:21:42.215Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=c60b8c04-800d-4adb-aa90-38590a9debd8"}
+{"level":30,"time":"2026-07-20T02:21:42.313Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:42.313Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:42.727Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:42.730Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:42.730Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:42.783Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:42.783Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:42.785Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:42.785Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
+{"level":30,"time":"2026-07-20T02:21:42.794Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:42.797Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:42.797Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
+{"level":30,"time":"2026-07-20T02:21:42.805Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:42.808Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:42.808Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =cpf in page."}
+{"level":30,"time":"2026-07-20T02:21:42.820Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:42.822Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method click"}
+{"level":30,"time":"2026-07-20T02:21:42.822Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2026-07-20T02:21:42.861Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method click"}
+{"level":30,"time":"2026-07-20T02:21:42.866Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:42.866Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:43.180Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:43.183Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:43.183Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:43.188Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Oops! O email informado é inválido"}
+{"level":30,"time":"2026-07-20T02:21:43.188Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:43.190Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:43.190Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:43.196Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:43.196Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:48.204Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.209Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.211Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.216Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.218Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.220Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.223Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.224Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.226Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=c60b8c04-800d-4adb-aa90-38590a9debd8"}
+{"level":30,"time":"2026-07-20T02:21:48.226Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=649fade7-6794-45b8-9e7c-712ab96f12e9"}
+{"level":30,"time":"2026-07-20T02:21:48.226Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:48.228Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:48.246Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=522cb9ec-4282-4f4c-8dc8-3596b2fd74f6 from context=c60b8c04-800d-4adb-aa90-38590a9debd8 page stack"}
+{"level":30,"time":"2026-07-20T02:21:48.252Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:48.261Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.262Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:48.275Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:48.276Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:48.281Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:48.281Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:48.305Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=b1bf6eca-1eb3-4fde-ae69-46f391c55596 to 10000"}
+{"level":30,"time":"2026-07-20T02:21:48.305Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=b1bf6eca-1eb3-4fde-ae69-46f391c55596"}
+{"level":30,"time":"2026-07-20T02:21:48.460Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:48.460Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:48.883Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:48.886Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:48.886Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=#signup h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:48.936Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=#signup h2 containing Faça seu cadastro e venha para a Smartbit!"}
+{"level":30,"time":"2026-07-20T02:21:48.936Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:48.938Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:48.938Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =name in page."}
+{"level":30,"time":"2026-07-20T02:21:48.947Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:48.949Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:48.949Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =email in page."}
+{"level":30,"time":"2026-07-20T02:21:48.958Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:48.960Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:48.960Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with id =cpf in page."}
+{"level":30,"time":"2026-07-20T02:21:48.970Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method fillText"}
+{"level":30,"time":"2026-07-20T02:21:48.972Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method click"}
+{"level":30,"time":"2026-07-20T02:21:48.972Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2026-07-20T02:21:49.020Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method click"}
+{"level":30,"time":"2026-07-20T02:21:49.023Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:49.023Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:49.338Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-07-20T02:21:49.342Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:49.343Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=form .notice in page."}
+{"level":30,"time":"2026-07-20T02:21:49.354Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=form .notice containing Oops! O CPF informado é inválido"}
+{"level":30,"time":"2026-07-20T02:21:49.354Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:54.361Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.363Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.365Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.367Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.369Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.370Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.372Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.374Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.375Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=b1bf6eca-1eb3-4fde-ae69-46f391c55596"}
+{"level":30,"time":"2026-07-20T02:21:54.375Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=5e6583cd-7af8-4126-b6ca-7c25e465fe6f"}
+{"level":30,"time":"2026-07-20T02:21:54.375Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:54.379Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:54.390Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=98385692-d606-44c2-8e12-db1debcb00c3 from context=b1bf6eca-1eb3-4fde-ae69-46f391c55596 page stack"}
+{"level":30,"time":"2026-07-20T02:21:54.394Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:21:54.401Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.401Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.406Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.406Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.409Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.409Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:54.412Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:54.412Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2026-07-20T02:21:54.415Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:54.415Z","pid":34248,"hostname":"AcerLeo","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@330cda0444043992265c81f3e855f126\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=7639c356-8a23-4418-b0ae-c5ce949585ec\"}"}
+{"level":30,"time":"2026-07-20T02:21:54.421Z","pid":34248,"hostname":"AcerLeo","msg":"Setting default timeout for context context=b2e30752-4446-413d-8cd2-66587387a58b to 10000"}
+{"level":30,"time":"2026-07-20T02:21:54.421Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=b2e30752-4446-413d-8cd2-66587387a58b"}
+{"level":30,"time":"2026-07-20T02:21:54.512Z","pid":34248,"hostname":"AcerLeo","msg":"Video path: undefined"}
+{"level":30,"time":"2026-07-20T02:21:54.512Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:54.922Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method newPage"}
+{"level":30,"time":"2026-07-20T02:21:54.925Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:54.925Z","pid":34248,"hostname":"AcerLeo","msg":"Strict mode is enabled, find Locator with css=.headline h2 in page."}
+{"level":30,"time":"2026-07-20T02:21:54.971Z","pid":34248,"hostname":"AcerLeo","msg":"Retrieved text for element css=.headline h2 containing Sua Jornada Fitness Começa aqui!"}
+{"level":30,"time":"2026-07-20T02:21:54.971Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getText"}
+{"level":30,"time":"2026-07-20T02:21:59.978Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.980Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.982Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.984Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.985Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.987Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.989Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.990Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:21:59.992Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active context: context=b2e30752-4446-413d-8cd2-66587387a58b"}
+{"level":30,"time":"2026-07-20T02:21:59.992Z","pid":34248,"hostname":"AcerLeo","msg":"Changing current active page: page=5c471f92-29b5-4e9f-a4b0-5a78ca8fa353"}
+{"level":30,"time":"2026-07-20T02:21:59.992Z","pid":34248,"hostname":"AcerLeo","msg":"Changed active page"}
+{"level":30,"time":"2026-07-20T02:21:59.995Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:22:00.008Z","pid":34248,"hostname":"AcerLeo","msg":"Removed page=a9799fc0-4c19-40a1-9dd2-38c3689754b7 from context=b2e30752-4446-413d-8cd2-66587387a58b page stack"}
+{"level":30,"time":"2026-07-20T02:22:00.015Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeContext"}
+{"level":30,"time":"2026-07-20T02:22:00.030Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:22:00.030Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-07-20T02:22:00.130Z","pid":34248,"hostname":"AcerLeo","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2026-07-20T02:22:00.389Z","pid":34248,"hostname":"AcerLeo","msg":"End of node method closeAllBrowsers"}
